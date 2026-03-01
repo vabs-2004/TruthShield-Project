@@ -128,7 +128,6 @@ You can also use the Chrome Extension using Chrome Extension
 
     👨‍💻 Vaibhav Singh
     👨‍💻 Mayank Jain
-    👨‍💻 Prashant Sain
     👨‍💻 Vansh Bindal
 
 
