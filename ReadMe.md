@@ -127,9 +127,6 @@ You can also use the Chrome Extension using Chrome Extension
 ## Team Members
 
     👨‍💻 Vaibhav Singh
-    👨‍💻 Mayank Jain
-    👨‍💻 Vansh Bindal
-
 
 ### Future Plans
 
